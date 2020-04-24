@@ -1,0 +1,18 @@
+.todos {
+    text-align: center;
+    width: 100%;
+    background-color: rgb(165, 165, 165);
+    height: 900px;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+}
+.texttodos { 
+    color: rgb(202, 48, 79);
+    font-size: 100px;
+}
+.clicktodos {
+    color: rgb(85, 85, 85);
+    font-size: 16px;
+    margin-bottom: 50px;
+}
